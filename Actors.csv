@@ -1,16 +1,16 @@
-Actor_ID,Actor,Actor_Type
-1,Cozeva,QHIO
-2,Long Health,QHIO
-3,Health Gorilla,QHIO
-4,Manifest Medex,QHIO
-5,LANES,QHIO
-6,Orange County,QHIO
-7,SacValley,QHIO
-8,San Diego,QHIO
-9,SCHIO,QHIO
-10,UC Davis,Other
-11,Point Click Care,HIE Other
-12,VA ,Sandbox
-13,Varadigm,Sandbox
-14,Epic,Sandbox
-15,CareQuality,HIE Other
+Actor ID,Actor,Actor Type,Connection,Is connected?
+1,Cozeva,QHIO,Hosted ,Yes
+2,Long Health,QHIO,Hosted ,Yes
+3,Health Gorilla,QHIO,Hosted ,No
+4,Manifest Medex,QHIO,Hosted ,No
+5,LANES,QHIO,Hosted ,No
+6,Orange County,QHIO,Hosted ,Testing
+7,SacValley,QHIO,Hosted ,Testing
+8,San Diego,QHIO,Hosted ,Testing
+9,SCHIO,QHIO,Hosted ,Testing
+10,UC Davis,Other,Hosted ,Yes
+11,Point Click Care,HIE Other,Hosted ,No
+12,VA ,Sandbox,Direct,Testing
+13,Varadigm,Sandbox,Direct,Testing
+14,Epic,Sandbox,Direct,Testing
+15,CareQuality,HIE Other,Direct,Yes
