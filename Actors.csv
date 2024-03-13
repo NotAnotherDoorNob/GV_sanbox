@@ -1,4 +1,4 @@
-Actor ID,Actor,Actor Type,Connection,Is connected?
+Actor_ID,Actor,Actor_Type,Connection,connected
 1,Cozeva,QHIO,Hosted ,Yes
 2,Long Health,QHIO,Hosted ,Yes
 3,Health Gorilla,QHIO,Hosted ,No
